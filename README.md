@@ -10,7 +10,7 @@ In addition to full-stack application development and game development, I am int
   
 I enjoy disc golf, games (current game is Elden Ring, always playing Teamfight Tactics), hiking, and I am developing a hobby of writing (short stories, novella, novel, screenplay formats).  
 
-Feel free to add me on Twitter @ZeegFreed https://twitter.com/Zeeg_Freed!
+Feel free to add me on Twitter [@ZeegFreed](https://twitter.com/Zeeg_Freed)!
 
 <!---
 zachfredricksen/zachfredricksen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
